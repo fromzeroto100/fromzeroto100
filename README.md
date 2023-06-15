@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fromzeroto100
 - 👀 I’m interested in Learning new skills
-- 🌱 I’m currently learning CSS, Html and python
+- 🌱 I’m currently learning Data science and python
 - 💞️ I’m looking to collaborate on learn coding
 - 📫 How to reach me ...
 
